@@ -1,0 +1,49 @@
+
+
+  
+  .personel{
+    position: relative;
+    width: 500px;
+    height: auto;
+    font-size: xx-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+     font-style: italic;
+     margin-left: 250px;
+     color:purple;text-align: center;
+     margin-top:60px;
+     margin-bottom:250PX;
+    }
+  
+
+  .child{
+    position:relative;
+    margin-top: 40PX;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    font-size:large ;
+    font-weight:900px ;
+  }
+       
+  .img{
+    height: 180px;
+    width:270px;
+    position: fixed;
+    right: 500px;
+    top: 170px;
+   border: 2px solid black;
+  }
+  .img1{
+    height: 100px;
+    width:500px;
+    position:flex;
+    top: 10px;
+margin-left: 300px;
+  
+  }
+
+  
+  
+  
+  
+  

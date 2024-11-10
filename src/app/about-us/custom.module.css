@@ -1,0 +1,33 @@
+.abouth{
+  
+    width: 500px;
+    height: auto;
+    color: #000;
+    font-size: xxx-large;
+    font-style: italic;
+    font-weight:900;
+    margin-left: 400px;
+    margin-top: 20px;}
+    .aboutp{
+        position: relative;
+        width: 580px;
+        height: auto;
+        font-size: x-large;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-style: italic;
+         margin-left: 310px;
+         color:purple ;
+         text-align: center;
+         margin-bottom: 250PX;
+         margin-top: 20px;
+  
+      } 
+      .img{
+        height: 180px;
+        width:270px;
+        position: fixed;
+        right: 500px;
+        top: 120px;
+       border: 2px solid black;
+      }
